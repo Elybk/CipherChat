@@ -1,4 +1,4 @@
-# 🔐 Encrypted Chat
+#  Encrypted Chat
 
 A simple Python local chat demo where messages are encrypted before sending and decrypted when read.
 
@@ -32,7 +32,7 @@ Copy code
 
 ---
 
-### ✅ How it works
+###  How it works
 - When **Alice or Bob sends a message**, it’s encrypted and stored in memory.  
 - When viewing the **chat log**, messages are decrypted and displayed.  
 - The key is saved in `chat.key` so messages can be decrypted later.  
